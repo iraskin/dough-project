@@ -14,7 +14,7 @@ Now, you should be able to access the application at localhost:4200
 
 
 Issues/improvements:
-This was just a first attempt at Ember, Ruby, and JavaScript for me. There are many things I would like to improve if I had more time:
+This was just a first attempt at Ember, Ruby, and JavaScript for me. There are many things that could be improved in the future:
 - On the main stock list page, display 10 or 20 per page instead of all at once
 - Faster loading of the model (loads all 5000+ stocks and takes a while)
 - Search feature
