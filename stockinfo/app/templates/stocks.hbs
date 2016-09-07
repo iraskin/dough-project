@@ -1,0 +1,7 @@
+<ol>
+{{#each model as |stock|}}
+  <li>  {{stock-info stock=stock}}
+    {{#link-to "stock" stock}}See Historical Data{{/link-to}}
+  </li>
+{{/each}}
+</ol>
