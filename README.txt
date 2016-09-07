@@ -7,7 +7,7 @@ Instructions to run:
 - Start a terminal, cd to stockinfo-api and run
 "rails server --binding 0.0.0.0"
 
-- Then, in a separate terminal
+- Then, in a separate terminal cd to stockinfo
 "ember server --proxy http://localhost:3000"
 
 Now, you should be able to access the application at localhost:4200
